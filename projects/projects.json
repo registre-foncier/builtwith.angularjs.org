@@ -655,7 +655,177 @@
         "jQuery",
         "Mobile"
       ]
-    },    
+    },
+    {
+      "name": "TakeTracker",
+      "thumb": "taketracker/thumb.png",
+      "desc": "Manage and share all your media-oriented projects.",
+      "url": "http://www.taketracker.com",
+      "info": "http://www.taketracker.com",
+      "submitter": "Alexis Ohayon",
+      "submissionDate": "2013-01-07",
+      "tags": [
+        "audiovisual",
+        "production",
+        "take tracking",
+        "video",
+        "annotation",
+        "compare",
+        "media projects",
+        "cloud",
+        "jQuery",
+        "Twitter Bootstrap"
+      ]
+    },
+    {
+      "name": "MS Word Character to ASCII Tool",
+      "thumb": "mswordcharconvertor/thumb.png",
+      "desc": "Paste your MS Word text and the word character converter will replace word characters with ASCII characters.",
+      "url": "http://http://wordcharconvertor.rogtopia.com/",
+      "info": "http://wordcharconvertor.rogtopia.com/#/about",
+      "submitter": "rriche",
+      "submissionDate": "2012-12-09",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Utility"
+      ]
+    },
+    {
+      "name": "Kontaktkarte",
+      "thumb": "kontaktkarte/thumb.png",
+      "desc": "Kontaktkarte is your central repository for contacts from social networks and real life.",
+      "url": "http://www.kontaktkarte.de",
+      "info": "http://blog.kontaktkarte.de",
+      "submissionDate": "2012-12-12",
+      "tags": [
+        "Production", "Productivity",
+        "jQuery", "Bootstrap", "lawnchair", "HTML5", "CSS3", "LESS"
+      ]
+    },
+    {
+      "name": "socialblood.org",
+      "thumb": "socialblood/thumb.png",
+      "desc": "A simple and powerful way to connect with blood donors in your community.",
+      "url": "http://www.socialblood.org/",
+      "info": "http://www.socialblood.org/about/",
+      "submitter": "PavelGavlik",
+      "submissionDate": "2012-12-12",
+      "tags": [
+        "Production",
+        "Facebook",
+        "Medicine",
+        "CSS3",
+        "Geolocation API",
+        "Google Maps",
+        "Django"
+      ]
+    },
+    {
+      "name": "Jobvite Hire",
+      "thumb": "jobvite/thumb.png",
+      "desc": "Social recruiting and applicant tracking tool.",
+      "url": "http://recruiting.jobvite.com/products/jobvite-hire/",
+      "info": "http://blog.jobvite.com/2012/09/today-we-announce-the-new-jobvite-hire/",
+      "submitter": "ProLoser",
+      "submissionDate": "2012-09-25",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Animations", "FullCalendar",
+        "jQuery", "jQueryUI", "AngularUI"
+      ]
+    },
+    {
+      "name": "WhichAirline",
+      "thumb": "whichairline/thumb.png",
+      "desc": "WhichAirline.com searches more than 100.000 routes to present the best available low-cost alternatives. The website helps user visualise flight duration and stopovers, and find the flights that best suit their time and budget. WhichAirline.com is a free service.",
+      "url": "http://www.whichairline.com",
+      "info": "http://www.whichairline.com/news",
+      "submitter": "twobits-cz",
+      "submissionDate": "2012-12-18",
+      "tags": [
+        "Production", "Travel",
+        "Flight Search Engine", "Free Service",
+        "Animations", "jQuery", "CSS3", "HTML5"
+      ]
+    },
+    {
+      "name": "goutec",
+      "thumb": "goutec/thumb.png",
+      "desc": "e-shop site (Demo version) ",
+      "url": "http://goutec.net",
+      "info": "http://goutec.net",
+      "submitter": "erikwco",
+      "submissionDate": "2012-12-18",
+      "tags": [
+        "Demo",
+        "Shopping",
+        "Bootstrap",
+        "Local Storage",
+        "bootstrap-js",
+        "jQuery",
+        "Twitter-bootstrap",
+        "PHP",
+        "Rest"
+      ]
+    },
+    {
+      "name": "roadrat",
+      "thumb": "roadrat/thumb.png",
+      "desc": "Road Rash Driving Incidence Recording",
+      "url": "http://roadrat.in",
+      "info": "http://roadrat.in/#/about",
+      "submitter": "deveshnahata",
+      "submissionDate": "2012-12-24",
+      "tags": [
+        "Production", "Research", "Web Sockets",
+        "jQuery", "Mobile", "Geolocation API", "socket.io",
+        "Node.js", "Twitter Bootstrap", "MongoDB"
+      ]
+    },
+    {
+      "name": "nbawowy",
+      "thumb": "nba-wowy/thumb.png",
+      "desc": "Find statistics of your favorite team with any arbitrary combination of players on or off the court.",
+      "url": "http://nbawowy.com",
+      "info":"http://www.d3coder.com/thecity/2013/01/04/introducing-nba-wowy/",
+      "submitter":"EvanZ",
+      "submissionDate":"2013-01-05",
+      "tags": [
+        "Production",
+        "Entertainment",
+        "Statistics",
+        "No jQuery",
+        "Node",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Slovari",
+      "thumb": "slovari/thumb.png",
+      "desc": "Explanatory Dictionary of the Russian Language.",
+      "url": "http://slovari.web-road.net/",
+      "info": "http://notepad.web-road.net/",
+      "submitter": "andrey",
+      "submissionDate": "2013-01-08",
+      "tags": [
+        "Production", "No jQuery", "Twitter Bootstrap", "Dictionary",
+        "AngularJS", "Ajax", "Education", "HTML5"
+      ]
+    },
+    {
+      "name": "eShell",
+      "thumb": "eshell/thumb.png",
+      "desc": "An eLearning player - a building block for eLearning courses created with authoring tools",
+      "url": "http://amitgharat.000space.com/eShell/index.html",
+      "submitter": "codef0rmer",
+      "submissionDate": "2012-11-18",
+      "tags": [
+        "jQuery","Production","Open Source","AngularJS",
+        "CSS3","Twitter BootStrap", "underscore.js", "jQueryUI", "jPlayer"
+      ]
+    },
     {
       "name": "Registre Foncier",  
       "thumb": "registre-foncier/thumb.png", 
